@@ -1,0 +1,5 @@
+openai
+mdpdf
+streamlit
+watchdog
+openai==0.28
